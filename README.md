@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yoadeoye
 - 👀 I’m interested in Artificial Intelligence and Data Science
 - 🌱 I’m currently learning NLP, Data Analysis, ML with Python
-- 💞️ I’m looking to collaborate on any project to grow my knowledge
+- 💞️ I’m looking to collaborate on any project to improve my knowledge
 - 📫 How to reach me: yusufadigun17968@gmail.com
 -    Love Football,Problem Solving, Critical Thinking, Coding
 
